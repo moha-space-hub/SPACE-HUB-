@@ -1,1 +1,15 @@
+-- Load SPACE HUB
+local Games  = {
+    [3101667897] = "", -- Legends of Speed
+    [3623096087] = "",       -- Muscle Legends
+    [9285238704] = "", -- race clicker 
+    [286090429] = "", -- arsenal
+    [118614517739521] = "", -- blind shot 
+    [136801880565837] = "", -- flick 
+    [ ] = " ", -- Ninja Legend 
+    [ ] = " ", -- Tower of hell 
+    [ ] = " ", -- blox fruit kaitune 
+    [ ] = " ", --  Muscle master 
+}
 
+return Games
